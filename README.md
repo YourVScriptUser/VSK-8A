@@ -1,2 +1,3 @@
 # VSK-8A
-Work in progress 
+The 6th emulator in my family of homemade custom ISA emulators.
+See doecumentation.md for more info.
