@@ -1,0 +1,15 @@
+; vsk8asm 4.1.0 symbols exported from D:\Operating Systems\Custom\SRC\VSK-8A\APOS\boot.x8
+; import with:  --import-symbols <this file>
+
+load_kernel_sectors      EQU 0x0112
+load_kernel_sectors.loop EQU 0x011E
+boot                     EQU 0x0178
+kernel_invalid           EQU 0x0196
+boot_disk_error          EQU 0x01A8
+hang                     EQU 0x01BA
+print_msg                EQU 0x01C6
+msg_done                 EQU 0x01F9
+msg                      EQU 0x01FC
+error_msg                EQU 0x020A
+kern_inv                 EQU 0x0216
+kernel_load_address      EQU 0x0300
